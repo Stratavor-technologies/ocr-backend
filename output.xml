@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="24.07.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="18" family="Times" color="#000000"/>
+<text top="109" left="108" width="689" height="16" font="0">The document you are trying to load requires Adobe Reader 8 or higher. You may not have the </text>
+<text top="129" left="108" width="668" height="16" font="0">Adobe Reader installed or your viewing environment may not be properly configured to use </text>
+<text top="149" left="108" width="112" height="16" font="0">Adobe Reader. </text>
+<text top="169" left="108" width="9" height="16" font="0">  </text>
+<text top="189" left="108" width="701" height="16" font="0">For information on how to install Adobe Reader and configure your viewing environment please </text>
+<text top="209" left="108" width="382" height="16" font="0">see  http://www.adobe.com/go/pdf_forms_configure.</text>
+</page>
+</pdf2xml>
